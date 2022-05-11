@@ -1,4 +1,3 @@
-﻿$wshell = New-Object -ComObject Wscript.Shell
 $wshell = New-Object -ComObject Wscript.Shell
 $printersFolder = "C:\Windows\System32\spool\PRINTERS\*"
 
